@@ -66,7 +66,7 @@ namespace AuthDemo.Services
                     ExpiresIn = token.ValidTo
                 };
             }
-            return null;
+            return null; 
         }
     }
 }
